@@ -133,6 +133,6 @@ EMPTY STAR
 
 
 */
-{Array.from({length: 5} , (_, i) => {
-  
-})}
+{
+  Array.from({ length: 5 }, (_, i) => {});
+}
